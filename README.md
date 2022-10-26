@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/ciisiq/challange-product-preview-card-component)
-- Live Site URL: [Live site URL here](https://ciisiq.github.io/challange-product-preview-card-component/)
+- Solution URL: [Solution URL here](https://github.com/hkmarcoot/fementor-product-preview-card-component)
+- Live Site URL: [Live site URL here](https://hkmarcoot.github.io/fementor-product-preview-card-component/)
 
 ## My process
 
