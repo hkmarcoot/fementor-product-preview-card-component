@@ -1,0 +1,1 @@
+# fementor-product-preview-card-component
